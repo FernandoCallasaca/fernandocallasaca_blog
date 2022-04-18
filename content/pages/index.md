@@ -16,7 +16,7 @@ sections:
       layout_style: mosaic
       title: Trabajos Recientes #Recent Work
       subtitle: Aquí presentaremos nuestros últimos proyectos #An optional subtitle of the section
-      projects_number: 4 #6
+      projects_number: 2 #6
       view_all_label: View All
       view_all_url: portfolio
     - section_id: services
