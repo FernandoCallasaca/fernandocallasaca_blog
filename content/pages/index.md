@@ -6,9 +6,9 @@ sections:
       type: section_hero
       title: "Hi, I'm Fernando Callasaca."
       content: >-
-          Data Scientist | Data & Analytics | Data Science | Statistics | Startups
+          Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
       actions:
-          - label: Let's talk
+          - label: Let's talk!
             url: /contact
             style: button
     - section_id: latest-projects
@@ -21,59 +21,59 @@ sections:
       view_all_url: portfolio
     - section_id: services
       type: section_grid
-      title: What We Do
-      subtitle: An optional subtitle of the section
+      title: Actualmente #What We Do
+      subtitle: Intereses profesionales y personales
       col_number: two
       is_numbered: true
       grid_items:
-          - title: Service Title
+          - title: Data Scientist
             content: >-
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-                ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-                fringilla, fringilla.
-          - title: Service Title
+                Realizando predicciones descubriendo patrones y usando algoritmos de Machine Learning.
+                Conocimientos en lenguajes de programación como Python y R con bases de datos
+                relacionales y no relacionales como SQL, MySql, CouchDB, etc.
+          - title: Webscraping
             content: >-
-                Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-                a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-                tincidunt ut tellus.
-          - title: Service Title
+                Obteniendo información de páginas web para Startups, micro empresas y proyectos personales,
+                respetando la ética de la trata de información.
+                Conocimientos en librerías como BeautifulSoup, Scrapy y Selenium.
+          - title: Startups - Emprendimiento
             content: >-
-                Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-                convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-                dui sollicitudin.
-          - title: Service title
+                Voluntario en SALTO PERÚ, además Coordinar del Programa de AtisunLab cuya misión es
+                crear las condiciones necesarias para que las ideas, el conocimiento, la tecnología y la educación
+                confluyan en la generación de emprendimientos con base tecnológica.
+          - title: Desarrollador Web
             content: >-
-                Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-                nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+                Participando en distintos proyectos de desarrollo web como Frontend Developer utilizando
+                frameworks como Angular y React; realizando proyectos para Adinelsa, Ministerio de Energía y Minas,
+                Gobierno Regional del Cusco, etc.
     - section_id: testimonials
       type: section_testimonials
-      title: Testimonials
-      subtitle: An optional subtitle of the section
+      title: Personas a las que admiro
+      subtitle: Principales personajes a las cuales admiro demasiado
       col_number: three
       testimonials:
-          - author: Sean Salazar
-            avatar: images/sean_salazar.jpg
-            avatar_alt: Sean Salazar's photo
+          - author: Barack Obama
+            avatar: images/barack_obama.jpg
+            avatar_alt: Barack Obama's photo
             content: >-
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-                ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-                fringilla.
-          - author: Aubrey Hoover
-            avatar: images/aubrey_hoover.jpg
-            avatar_alt: Aubrey Hoover's photo
+                El futuro nos reserva algo mejor, siempre que tengamos el valor de seguir intentándolo,
+                trabajando, seguir luchando.
+          - author: Steve Jobs
+            avatar: images/steve_jobs.jpg
+            avatar_alt: Steve Jobs's photo
             content: >-
-                Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-                nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-          - author: Deegan Wallace
-            avatar: images/deegan_wallace.jpg
-            avatar_alt: Deegan Wallace's photo
+                Las personas que están lo suficientemente locas como para pensar que pueden cambiar el mundo,
+                son quienes lo hacen.
+          - author: Elon Musk
+            avatar: images/elon_musk.jpg
+            avatar_alt: Elon Musk's photo
             content: >-
-                Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-                convallis, interdum ligula vel, pretium diam.
+                No deberías hacer las cosas de manera diferente solamente para que sean distintas. Necesitan
+                ser mejores.
     - section_id: latest-posts
       type: section_posts
-      title: Latest from the Blog
-      subtitle: An optional subtitle of the section
+      title: Últimos Blogs
+      subtitle: Actualizaciones de blogs
       posts_number: 3
       col_number: three
       actions:
@@ -81,8 +81,8 @@ sections:
             url: blog
             style: button
 seo:
-    title: Stackbit Exto Theme
-    description: The preview of the Exto theme
+    title: Fernando Callasaca
+    description: Blog and repository from Fernando Callasaca #The preview of the Exto theme
     extra:
         - name: 'og:type'
           value: website

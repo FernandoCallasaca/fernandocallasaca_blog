@@ -1,8 +1,8 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Fernando Callasaca",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
         "title": "FCA",
         "has_nav": true,
@@ -28,7 +28,7 @@
                 "style": "link"
             },
             {
-                "label": "About me",
+                "label": "Sobre mí",
                 "url": "/about/",
                 "style": "link"
             },
@@ -40,35 +40,35 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Gracias por visitarme. Puedes buscarme en LinkedIn: <a href=\"https://www.linkedin.com/in/fernandocallasaca\" target=\"_blank\" rel=\"noopener\">@fernandocallasaca</a>",
         "has_social": true,
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/fernandocallasaca",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/fernandocallasaca",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/fcallasaca",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://instagram.com/fernandocallasaca",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
                 "new_window": true
             }
         ]
