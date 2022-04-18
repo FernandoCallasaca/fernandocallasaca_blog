@@ -4,7 +4,7 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "FCA",
         "has_nav": true,
         "nav_links": [
             {
@@ -13,7 +13,7 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Portafolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -28,12 +28,12 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "About me",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
             }
