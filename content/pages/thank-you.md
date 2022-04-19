@@ -1,6 +1,6 @@
 ---
 title: Gracias!
-image: images/thank-you.jpg
+image: images/thanks.jpg
 image_alt: Imagen de agradecimiento
 layout: page
 ---
