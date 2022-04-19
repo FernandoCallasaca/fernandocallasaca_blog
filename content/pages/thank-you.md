@@ -1,10 +1,10 @@
 ---
-title: Thank You!
+title: Gracias!
 image: images/thank-you.jpg
-image_alt: Thank You Led Signage
+image_alt: Imagen de agradecimiento
 layout: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
+Gracias por contactarme! Muy pronto estaremos en contacto.
 
-**Have a great day!**
+**Ten un excelente día!**

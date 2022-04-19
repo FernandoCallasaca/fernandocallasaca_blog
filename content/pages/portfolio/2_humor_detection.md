@@ -7,8 +7,8 @@ thumb_image_alt: Humor Detection Text
 image: images/humor_detection.jpg
 image_alt: Humor Detection Text
 seo:
-    title: Project Title 2
-    description: This is the project 2 description
+    title: Humor Detection
+    description: Decision Tree Classifier - Machine Learning
     extra:
         - name: 'og:type'
           value: website

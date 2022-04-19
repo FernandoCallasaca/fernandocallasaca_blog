@@ -75,7 +75,7 @@ sections:
       title: Últimos Blogs
       subtitle: Actualizaciones de blogs
       posts_number: 3
-      col_number: three
+      col_number: two
       actions:
           - label: View Blog
             url: blog

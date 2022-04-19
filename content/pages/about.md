@@ -1,41 +1,59 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
+title: Un poco sobre mí
+subtitle: Aquí tendrás mi perfil actualizado.
+image: images/fernando_profile.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
-  description: This is the about us page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About Us
-      keyName: property
-    - name: 'og:description'
-      value: This is the about us page
-      keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Us
-    - name: 'twitter:description'
-      value: This is the about us page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
+    title: Sobre mí
+    description: Esta es la página sobre mí
+    extra:
+        - name: 'og:type'
+          value: website
+          keyName: property
+        - name: 'og:title'
+          value: About Us
+          keyName: property
+        - name: 'og:description'
+          value: This is the about us page
+          keyName: property
+        - name: 'og:image'
+          value: images/about.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: About Us
+        - name: 'twitter:description'
+          value: This is the about us page
+        - name: 'twitter:image'
+          value: images/about.jpg
+          relativeUrl: true
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+### Hi there 👋
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+I'm Fernando Callasaca, I'm Data Scientist Jr 📊.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+> Think like an aduld, live like young, advise as an ederly and never stop dreaming like a child. - Jurgen Klaric
 
-*Thank You for reading!*
+I like make predictions finding out patterns in large datasets. 🌌
+
+With knowledge in programming languages such as Python, R, JavaScript and relational and non-relational databases like SQL, CouchDB, MySQL, etc.
+
+I am training 👔 in the use and analysis of data using Machine Learning and Business Intelligence Tools. 📉
+
+I have skills in analysis, self-education, responsibility and commitment with work. 💪 😀
+
+Social Media 🌟
+
+[LinkedIn 💼](https://www.linkedin.com/in/fernandocallasaca)
+
+[Twitter 🐦](https://twitter.com/fcallasaca)
+
+[Github 🌍](https://github.com/fernandocallasaca)
+
+[Email 📬](mailto:fernandocallasaca@outlook.com)
+
+_Thank You for reading!_
