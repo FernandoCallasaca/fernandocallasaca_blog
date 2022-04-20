@@ -88,7 +88,7 @@ seo:
           value: website
           keyName: property
         - name: 'og:title'
-          value: Stackbit Exto Theme
+          value: Fernando Callasaca's
           keyName: property
         - name: 'og:description'
           value: Página Web, Blog de Fernando Callasaca
@@ -100,7 +100,7 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Stackbit Exto Theme
+          value: Fernando Callasaca's
         - name: 'twitter:description'
           value: Página Web, Blog de Fernando Callasaca
         - name: 'twitter:image'
