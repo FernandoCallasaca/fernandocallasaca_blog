@@ -4,7 +4,7 @@ hide_title: true
 sections:
     - section_id: hero
       type: section_hero
-      title: "Hi, I'm Fernando Callasaca."
+      title: "Hi, I'm Fernando Callasaca"
       content: >-
           Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
       actions:
