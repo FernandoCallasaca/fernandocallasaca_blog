@@ -71,6 +71,7 @@ export default class Body extends React.Component {
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet" />
+                    <link rel="shortcut icon" href="/favicon/favicon.ico" />
                     {favicon && <link rel="icon" href={withPrefix(favicon)} />}
                     <body className={classNames(`palette-${colorScheme}`, `accent-${accentColor}`)} />
                 </Helmet>

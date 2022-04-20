@@ -82,7 +82,7 @@ sections:
             style: button
 seo:
     title: Fernando Callasaca
-    description: Blog and repository from Fernando Callasaca #The preview of the Exto theme
+    description: Blog and repository from Fernando Callasaca
     extra:
         - name: 'og:type'
           value: website
