@@ -98,7 +98,7 @@ seo:
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
-          value: summary_large_image
+          value: /favicon/android-chrome-512x512.png
         - name: 'twitter:title'
           value: Fernando Callasaca
         - name: 'twitter:description'
