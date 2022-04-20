@@ -91,7 +91,7 @@ seo:
           value: Stackbit Exto Theme
           keyName: property
         - name: 'og:description'
-          value: The preview of the Exto theme
+          value: Página Web, Blog de Fernando Callasaca
           keyName: property
         - name: 'og:image'
           value: images/exto_preview.png
@@ -102,7 +102,7 @@ seo:
         - name: 'twitter:title'
           value: Stackbit Exto Theme
         - name: 'twitter:description'
-          value: The preview of the Exto theme
+          value: Página Web, Blog de Fernando Callasaca
         - name: 'twitter:image'
           value: images/exto_preview.png
           relativeUrl: true
