@@ -13,8 +13,8 @@
                 "style": "link"
             },
             {
-                "label": "Portafolio",
-                "url": "/portfolio/",
+                "label": "Acerca",
+                "url": "/about/",
                 "style": "link"
             },
             {
@@ -23,8 +23,8 @@
                 "style": "link"
             },
             {
-                "label": "Sobre mí",
-                "url": "/about/",
+                "label": "Portafolio",
+                "url": "/portfolio/",
                 "style": "link"
             },
             {

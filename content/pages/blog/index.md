@@ -1,10 +1,10 @@
 ---
-title: Blog
+title: All Posts
 subtitle: 'News, tips and highlights - Cositas interesantes'
 hide_title: false
 col_number: two
 seo:
-    title: Blog
+    title: Blog - Fernando Callasaca
     description: This is the blog page
     extra:
         - name: 'og:type'

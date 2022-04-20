@@ -4,9 +4,9 @@ hide_title: true
 sections:
     - section_id: hero
       type: section_hero
-      title: "Hi, I'm Fernando Callasaca"
+      title: 'Fernando Callasaca Acuña'
       content: >-
-          Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
+          Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
       actions:
           - label: Let's talk!
             url: /contact
@@ -91,7 +91,7 @@ seo:
           value: Fernando Callasaca's Blog
           keyName: property
         - name: 'og:description'
-          value: Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
+          value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
           keyName: property
         - name: 'og:image'
           value: /favicon/android-chrome-512x512.png
@@ -102,7 +102,7 @@ seo:
         - name: 'twitter:title'
           value: Fernando Callasaca's Blog
         - name: 'twitter:description'
-          value: Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
+          value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
           value: /favicon/android-chrome-512x512.png
           relativeUrl: true

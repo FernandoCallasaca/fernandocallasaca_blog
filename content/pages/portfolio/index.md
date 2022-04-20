@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: Aquí estarán presentes mis últimos proyectos.
 layout_style: mosaic
 seo:
-    title: Portfolio
+    title: Portfolio - Fernando Callasaca
     description: This is the portfolio page
     extra:
         - name: 'og:type'

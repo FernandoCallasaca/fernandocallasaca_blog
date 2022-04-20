@@ -39,7 +39,7 @@ sections:
                 Entiendo que este formulario guardará mi información así que puedo ser contatado.
       submit_label: Enviar Mensaje
 seo:
-    title: Contacto
+    title: Contacto - Fernando Callasaca
     description: Esta es la página de contacto
     extra:
         - name: 'og:type'
