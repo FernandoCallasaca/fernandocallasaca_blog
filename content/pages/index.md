@@ -94,17 +94,17 @@ seo:
           value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
           keyName: property
         - name: 'og:image'
-          value: /favicon/android-chrome-512x512.png
+          value: images/fernando_profile.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
-          value: /favicon/android-chrome-512x512.png
+          value: summary_large_image
         - name: 'twitter:title'
           value: Fernando Callasaca
         - name: 'twitter:description'
           value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
-          value: /favicon/android-chrome-512x512.png
+          value: images/fernando_profile.jpg
           relativeUrl: true
 layout: advanced
 ---
