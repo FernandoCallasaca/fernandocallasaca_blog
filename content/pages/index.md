@@ -88,23 +88,23 @@ seo:
           value: website
           keyName: property
         - name: 'og:title'
-          value: Fernando Callasaca's
+          value: Fernando Callasaca's Blog
           keyName: property
         - name: 'og:description'
-          value: Página Web, Blog de Fernando Callasaca
+          value: Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
           keyName: property
         - name: 'og:image'
-          value: images/exto_preview.png
+          value: /favicon/android-chrome-512x512.png
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Fernando Callasaca's
+          value: Fernando Callasaca's Blog
         - name: 'twitter:description'
-          value: Página Web, Blog de Fernando Callasaca
+          value: Data Scientist | Data & Analytics | Data Science | Statistics | Startups | Emprendimiento
         - name: 'twitter:image'
-          value: images/exto_preview.png
+          value: /favicon/android-chrome-512x512.png
           relativeUrl: true
 layout: advanced
 ---
