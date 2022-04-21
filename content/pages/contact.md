@@ -36,7 +36,7 @@ sections:
           - input_type: checkbox
             name: consent
             label: >-
-                Entiendo que este formulario guardará mi información así que puedo ser contatado.
+                Entiendo que este formulario guardará mi información así que puedo ser contactado.
       submit_label: Enviar Mensaje
 seo:
     title: Contacto - Fernando Callasaca
