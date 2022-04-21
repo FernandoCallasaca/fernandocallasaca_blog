@@ -44,16 +44,16 @@ Desarrollé el liderazgo y organización en eventos académicos y actividades so
 
 ### Especialidades
 
-Python, R, Data Analytics, Machine Learning, JavaScript, Angular, Node, GitHub.
+Python, Pandas, Numpy, Matplotlib, scikit-learn, R, Data Analytics, Machine Learning, Storytelling, JavaScript, Angular, Node, GitHub.
 
 ### Trayectoria
 
 Desde la universidad me desempeñé como Data Enginner; creando, modelando y optimizando bases de datos relacionales y no relacionales, Frontend Web Developer con Angular desarrollando proyectos para empresas como Adinelsa, DGER, Gobierno Regional del Cusco y el Instituto Nacional de Estadística e Informática. Y Data Scientist Freelance realizando proyectos de Webscraping, análisis, modelado y predicción utilizando algoritmos de Machine learning.
 
-Tengo habilidades en análisis, autoformación, responsabilidad y compromiso con el trabajo.
+Tengo habilidades en análisis, empatía, autoformación, responsabilidad y compromiso con el trabajo.
 
 ### Interes
 
-Me apasiona investigar, leer y crear contenido sobre tecnología, innovación, ciencia de datos y en este blog espero compartir una parte de mis conocimientos.
+Me apasiona investigar, tener una visión a futuro, leer y crear contenido sobre tecnología, innovación, ciencia de datos y en este blog espero compartir una parte de mis conocimientos.
 
 > Piensa como adulto, vive como joven, aconseja como anciano y nunca pares de soñar como un niño. - Jurgen Klaric
