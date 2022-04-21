@@ -38,7 +38,7 @@ layout: page
 
 ### ¿Quién soy?
 
-Peruano, originario de Cusco. Trabajo como Data Scientist en Thinking Food, Startup dedicada a hacer que cocinar sea simple. Coordinador del Programa AtisunLab, quienes buscan promover las habilidades tecnológicas y apoyar a jóvenes líderes para lanzar proyectos digitales con impacto social.
+Peruano, originario de Cusco. Actualmente soy Data Scientist en Thinking Food, Startup dedicada a hacer que cocinar sea simple. Coordinador del Programa AtisunLab, quienes buscan promover las habilidades tecnológicas y apoyar a jóvenes líderes para lanzar proyectos digitales con impacto social.
 
 Desarrollé el liderazgo y organización en eventos académicos y actividades sociales, participando fuertemente en voluntariados como Data Science Researh Perú, Impact Startup Competition y Salto Perú. Soy un apasionado por las tecnologías particularmente por la Ciencia de Datos y hoy en día voy descubriendo el mundo del emprendimiento e innovación en Startups.
 
