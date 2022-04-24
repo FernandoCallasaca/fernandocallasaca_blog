@@ -94,7 +94,7 @@ seo:
           value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
           keyName: property
         - name: 'og:image'
-          value: images/fernando_profile.jpg
+          value: images/Foto.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -104,7 +104,7 @@ seo:
         - name: 'twitter:description'
           value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
-          value: images/fernando_profile.jpg
+          value: images/Foto.jpg
           relativeUrl: true
 layout: advanced
 ---

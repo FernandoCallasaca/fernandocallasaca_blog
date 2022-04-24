@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
     Creación de aplicaciones, sitios web y automatización de procesos.
 date: '2022-04-24'
-thumb_image: images/low_code_no_code.png
+thumb_image: /images/low_code_no_code.png
 thumb_image_alt: Imagen de Low Code y No Code
 seo:
     title: Herramientas No Code y Low Code
@@ -23,7 +23,7 @@ seo:
               Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
           keyName: property
         - name: 'og:image'
-          value: images/low_code_no_code.png
+          value: /images/low_code_no_code.png
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
           value: >-
               Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
         - name: 'twitter:image'
-          value: images/low_code_no_code.png
+          value: /images/low_code_no_code.png
           relativeUrl: true
 layout: articulo
 ---
