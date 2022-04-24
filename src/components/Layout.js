@@ -44,7 +44,7 @@ export default class Body extends React.Component {
         const description = seoDescription
             ? seoDescription
             : 'Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪';
-        const ogImage = seoImage ? seoImage : 'images/Foto.jpg';
+        const ogImage = seoImage ? seoImage : 'icon-512x512.png';
         const url = seoUrl ? `https://fernandocallasaca.com/${seoUrl}` : 'https://fernandocallasaca.com/';
         const seoRobots = _.get(seo, 'robots', []).join(',');
         const seoExtra = _.get(seo, 'extra', []).map((meta, index) => {
