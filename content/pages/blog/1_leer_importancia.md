@@ -1,8 +1,8 @@
 ---
 title: La importancia de leer
 excerpt: >-
-    Por qué leer es tan importante para nuestro día a día.
-date: '2022-04-27'
+    Por qué leer es tan importante para nuestro día a día. (Blog en construcción)
+date: '2020-01-01'
 thumb_image: images/books_important.jpg
 thumb_image_alt: A pile of books on the table
 # para colocar la imagen al 100% width
@@ -43,7 +43,7 @@ seo:
 layout: post
 ---
 
-**Casi listo**... página en construcción.
+**Casi listo**... Blog en construcción.
 
 ![Modern white table](/images/books_important.jpg)
 

@@ -12,13 +12,13 @@ module.exports = {
         },
         // flatten all frontmatter and markdown data
         ({ data }) => {
-            const objects = data.objects.map(object => {
+            const objects = data.objects.map((object) => {
                 if (_.has(object, 'frontmatter')) {
                     return {
                         __metadata: object.__metadata,
                         ...object.frontmatter,
                         markdown_content: object.markdown || null
-                    }
+                    };
                 }
                 return object;
             });
@@ -36,7 +36,7 @@ module.exports = {
                 pages: [
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'advanced') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'blog') },
-                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'portfolio') },
+                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'articulo') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'page') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'post') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'project') }

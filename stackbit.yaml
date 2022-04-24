@@ -214,12 +214,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  portfolio:
+  articulo:
     type: page
-    urlPath: /portfolio
-    label: Portfolio
-    layout: portfolio
-    file: portfolio/index.md
+    urlPath: /articulo
+    label: articulo
+    layout: articulo
+    file: articulo/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -250,7 +250,7 @@ models:
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - articulo/**
     fields:
       - type: string
         name: title
@@ -319,10 +319,10 @@ models:
           - stackbit_page_meta
   project:
     type: page
-    urlPath: '/portfolio/{slug}'
-    label: Project
-    layout: project
-    folder: portfolio
+    urlPath: '/articulo/{slug}'
+    label: Articulo
+    layout: articulo
+    folder: articulo
     fields:
       - type: string
         name: title

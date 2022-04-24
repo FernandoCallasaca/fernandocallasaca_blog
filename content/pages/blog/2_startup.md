@@ -1,11 +1,11 @@
 ---
-title: No Code - La nueva era
+title: Startup - Nuevo Mundo
 subtitle: >-
-    Desde un blog hasta un MVP.
+    Parte de ellos parte de los Startuperos
 excerpt: >-
-    Creación de productos, optimización de serivios en tan solo unas cuantas horas o días.
-date: '2022-04-20'
-thumb_image: images/no_code.jpg
+    Les cuento un poco sobre mi llegada a este nuevo mundo... El mundo de las startups. (Blog en construcción)
+date: '2020-01-01'
+thumb_image: images/startup.jpg
 thumb_image_alt: Modern white table
 seo:
     title: How To Choose An Interior Designer
@@ -25,7 +25,7 @@ seo:
               ac eu interdum placerat
           keyName: property
         - name: 'og:image'
-          value: images/10.jpg
+          value: images/startup.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -37,13 +37,13 @@ seo:
               Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
               ac eu interdum placerat
         - name: 'twitter:image'
-          value: images/10.jpg
+          value: images/startup.jpg
           relativeUrl: true
 layout: post
 ---
 
-**Casi listo**... página en construcción.
+**Casi listo**... Blog en construcción.
 
-![Modern white table](/images/no_code.jpg)
+![Modern white table](/images/startup.jpg)
 
-> No Code - Low Code
+> Startup

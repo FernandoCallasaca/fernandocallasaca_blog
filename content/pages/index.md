@@ -14,11 +14,11 @@ sections:
     - section_id: latest-projects
       type: section_portfolio
       layout_style: mosaic
-      title: Trabajos Recientes #Recent Work
-      subtitle: Aquí presentaremos nuestros últimos proyectos #An optional subtitle of the section
+      title: Artículos #Recent Work
+      subtitle: Aquí presentaremos nuestros últimos artículos #An optional subtitle of the section
       projects_number: 2 #6
-      view_all_label: View All
-      view_all_url: portfolio
+      view_all_label: Ver todos
+      view_all_url: articulo
     - section_id: services
       type: section_grid
       title: Actualmente #What We Do

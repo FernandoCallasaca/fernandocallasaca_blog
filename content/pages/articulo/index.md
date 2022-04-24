@@ -1,33 +1,32 @@
 ---
-title: Blog
-subtitle: Cositas interesantes
-hide_title: false
-col_number: two
+title: Artículos
+subtitle: Artículos más recientes.
+layout_style: mosaic
 seo:
-    title: Blog - Fernando Callasaca
-    description: This is the blog page
+    title: Artículos - Fernando Callasaca
+    description: Artículos sobre temas variados, tecnología, ciencia, emprendimiento, startups con Fernando Callasaca @fernandocallasaca
     extra:
         - name: 'og:type'
           value: website
           keyName: property
         - name: 'og:title'
-          value: Blog
+          value: Articulo
           keyName: property
         - name: 'og:description'
-          value: This is the blog page
+          value: This is the Articulo page
           keyName: property
         - name: 'og:image'
-          value: images/12.jpg
+          value: images/1.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Blog
+          value: Articulo
         - name: 'twitter:description'
-          value: This is the blog page
+          value: This is the Articulo page
         - name: 'twitter:image'
-          value: images/12.jpg
+          value: images/1.jpg
           relativeUrl: true
-layout: blog
+layout: articulo
 ---

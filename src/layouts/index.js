@@ -4,6 +4,7 @@ import page from './page';
 import portfolio from './portfolio';
 import post from './post';
 import project from './project';
+import articulo from './articulo';
 
 export {
     advanced,
@@ -11,7 +12,8 @@ export {
     page,
     portfolio,
     post,
-    project
+    project,
+    articulo
 };
 
 export default {
@@ -20,5 +22,6 @@ export default {
     page,
     portfolio,
     post,
-    project
+    project,
+    articulo
 };
