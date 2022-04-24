@@ -1,28 +1,26 @@
 ---
-title: No Code y Low Code
+title: Herramientas No Code y Low Code
 subtitle: >-
     Si no te sientes avergonzado de cómo lanzaste tu MVP, lo más probable es que lo hayas lanzado tarde.
 excerpt: >-
-    Creación de productos, optimización de servicios en tan solo unas cuantas horas o días.
+    Creación de aplicaciones, sitios web y automatización de procesos.
 date: '2022-04-24'
 thumb_image: images/low_code_no_code.png
 thumb_image_alt: Imagen de Low Code y No Code
 seo:
-    title: How To Choose An Interior Designer
+    title: Herramientas No Code y Low Code
     description: >-
-        Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
-        eu interdum placerat
+        Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
     extra:
         - name: 'og:type'
           value: article
           keyName: property
         - name: 'og:title'
-          value: How To Choose An Interior Designer
+          value: Herramientas No Code y Low Code
           keyName: property
         - name: 'og:description'
           value: >-
-              Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
-              ac eu interdum placerat
+              Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
           keyName: property
         - name: 'og:image'
           value: images/low_code_no_code.png
@@ -31,11 +29,10 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: How To Choose An Interior Designer
+          value: Herramientas No Code y Low Code
         - name: 'twitter:description'
           value: >-
-              Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
-              ac eu interdum placerat
+              Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
         - name: 'twitter:image'
           value: images/low_code_no_code.png
           relativeUrl: true
@@ -44,22 +41,19 @@ layout: articulo
 
 ![Modern white table](/images/low_code_no_code.png)
 
+## **¿Qué es No Code y Low Code?**
 
-# **No Code - Low Code**
+Herramientas que permiten desarrollar aplicaciones, sitios web y automatizar procesos desde la creación de bases de datos integradas, hasta incluir métodos de pago sin necesidad de programar una sola línea de código, en el caso de herramientas **Low Code** se debe tener en cuenta conocimientos de programación web porque se necesita una cantidad mínima de código.
 
-## **¿Qué es?**
-
-Herramientas que permiten desarrollar aplicaciones, sitios web y automatizar procesos desde la creación de bases de datos integradas, hasta incluir métodos de pago sin necesidad de programar una sola línea de código, en el caso de herramientas Low Code se debe tener en cuenta conocimientos de programación web porque se necesita una cantidad mínima de código.
-
-Hoy en día a las herramientas No Code y Low Code se denominan un Movimiento Global cuyo objetivo es realizar optimización sin necesidad de colocar una sola línea de código o pocas lineas de código, una interfaz "drag and drop".
+Hoy en día a las herramientas No Code y Low Code se denominan un **Movimiento Global** cuyo objetivo es realizar optimización usando una interfaz "drag and drop (arrastrar y soltar)".
 
 No Code permite crear productos o automatizar procesos.
 
-> Puedes tener 0 conocimientos en programación, pero las herramientas que implican algún lenguaje de programación (Low Code) hacen que tengas un manejo **más potente** de la herramienta.
+> Puedes tener cero conocimientos en programación, pero las herramientas que implican algún lenguaje de programación (Low Code) hacen que tengas un **manejo más potente** de la herramienta.
 
 > Cualquier sentencia que esté en una base de datos o en una hoja de cálculo lo podemos convertir en No Code y Low Code.
 
-> Con Low Code maximizamos el funcionamiento, podemos iniciar con No Code pero luego podemos adaptar, manipular o crear con Low Code.
+> Con Low Code **maximizamos** el funcionamiento, podemos iniciar con No Code pero luego podemos adaptar, manipular o crear con Low Code.
 
 
 ## **Herramientas**

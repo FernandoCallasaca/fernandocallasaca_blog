@@ -82,7 +82,7 @@ sections:
             style: button
 seo:
     title: Fernando Callasaca
-    description: Blog and repository from Fernando Callasaca
+    description: Blog, artículos y portafolio de Fernando Callasaca @fernandocallasaca
     extra:
         - name: 'og:type'
           value: website
