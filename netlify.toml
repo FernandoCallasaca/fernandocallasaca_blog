@@ -1,4 +1,5 @@
 [build]
 publish = "out"
-command = "true npm run build"
+CI= npm run build
+command = "npm run build"
 environment = { NODE_VERSION = "12" }
