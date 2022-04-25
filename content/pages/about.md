@@ -3,6 +3,8 @@ title: ¿Quién es Fernando Callasaca Acuña?
 # subtitle: Aquí tendrás mi perfil actualizado.
 # image: images/fernando_profile.jpg
 # image_alt: A man taking a picture
+thumb_image: images/fernando_profile.jpg
+thumb_image_alt: Imagen de Fernando Callasaca
 seo:
     title: ¿Quién es Fernando Callasaca?
     description: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
