@@ -35,9 +35,9 @@ export default class Body extends React.Component {
         const favicon = _.get(config, 'favicon');
         const domain = _.trim(_.get(config, 'domain', ''), '/');
 
-        // const seo = _.get(page, 'seo');
+        const seo = _.get(page, 'seo');
         const seoImage = _.get(page, 'thumb_image');
-        const seoTitle = _.get(page, 'title'); // seo
+        const seoTitle = _.get(seo, 'title');
         const seoUrl = _.get(page, 'url');
         const seoDescription = _.get(page, 'subtitle');
         const title = seoTitle ? seoTitle : [pageTitle, configTitle].join(' | ');
