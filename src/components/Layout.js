@@ -35,9 +35,9 @@ export default class Body extends React.Component {
         const favicon = _.get(config, 'favicon');
         const domain = _.trim(_.get(config, 'domain', ''), '/');
 
-        const seo = _.get(page, 'seo');
+        // const seo = _.get(page, 'seo');
         const seoImage = _.get(page, 'thumb_image');
-        const seoTitle = _.get(seo, 'title');
+        const seoTitle = _.get(page, 'title'); // seo
         const seoUrl = _.get(page, 'url');
         const seoDescription = _.get(page, 'subtitle');
         const title = seoTitle ? seoTitle : [pageTitle, configTitle].join(' | ');
@@ -72,15 +72,18 @@ export default class Body extends React.Component {
             <React.Fragment>
                 <Helmet>
                     <title>{title}</title>
-                    <meta charSet="utf-8" />
-                    <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={description} />
+                    <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet" />
+                    <meta charSet="utf-8" />
+                    <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
-                    <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet" />
                     <link rel="shortcut icon" href="/favicon/favicon.ico" />
                     {favicon && <link rel="icon" href={withPrefix(favicon)} />}
+
+                    <link rel="canonical" href={url} />
+
                     <meta name="description" content={description} />
                     <meta name="twitter:card" content="summary_large_image" />
                     <meta name="twitter:site" content="@fcallasaca" />
@@ -95,6 +98,8 @@ export default class Body extends React.Component {
                     <meta property="og:site_name" content={title} />
                     <meta property="og:locale" content="es_ES" />
                     <meta property="og:type" content="article" />
+                    <meta property="fb:app_id" content="536981631376846" />
+
                     <link rel="manifest" href="/manifest.json" />
 
                     <body className={classNames(`palette-${colorScheme}`, `accent-${accentColor}`)} />
