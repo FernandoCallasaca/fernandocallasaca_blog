@@ -9,9 +9,7 @@ module.exports = {
     devIndicators: {
         autoPrerender: false
     },
-    future: {
-        webpack5: true,
-    },
+    webpack5: true,
     webpack: (config, { webpack }) => {
         // Tell webpack to ignore watching content files in the content folder.
         // Otherwise webpack receompiles the app and refreshes the whole page.
