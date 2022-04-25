@@ -45,11 +45,11 @@ layout: articulo
 
 <div style="text-align: justify;">
 
-Las herramientas No Code y Low Code permiten desarrollar aplicaciones, sitios web y automatizar procesos, desde la creación de bases de datos integradas hasta incluir métodos de pago sin necesidad de programar una sola línea de código. En el caso de herramientas **Low Code** se debe tener en cuenta conocimientos de programación web, porque se necesita una cantidad mínima de código.
+Las herramientas No Code y Low Code permiten desarrollar aplicaciones, sitios web y automatizar procesos, desde la creación de bases de datos integradas hasta incluir métodos de pago sin necesidad de programar una sola línea de código. En el caso de herramientas **Low Code** se debe tener en cuenta conocimientos de programación, porque se necesita una cantidad mínima de código.
 
 Hoy en día a las herramientas No Code y Low Code se les denomina ***"Movimiento Global"***, cuyo objetivo es realizar optimización usando una interfaz **drag and drop** (arrastrar y soltar).
 
-> Sin necesidad de tener conocimientos en programación, las herramientas No Code y Low Code te permitirán que desarrollar pontentes <u>aplicaciones</u> y <u>sitios web</u>.
+> Sin necesidad de tener conocimientos en programación, las herramientas No Code y Low Code te permitirán desarrollar potentes <u>aplicaciones</u> y <u>sitios web</u>.
 
 > Cualquier sentencia que esté en una base de datos o en una hoja de cálculo lo podemos convertir en No Code y Low Code.
 
