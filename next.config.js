@@ -6,7 +6,6 @@ sourcebit.fetch(sourcebitConfig);
 
 module.exports = {
     trailingSlash: true,
-    target: 'serverless',
     devIndicators: {
         autoPrerender: false
     },
