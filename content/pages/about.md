@@ -3,7 +3,7 @@ title: ¿Quién es Fernando Callasaca Acuña?
 # subtitle: Aquí tendrás mi perfil actualizado.
 # image: images/fernando_profile.jpg
 # image_alt: A man taking a picture
-thumb_image: images/fernando_profile.jpg
+thumb_image: /images/fernando_profile.jpg
 thumb_image_alt: Imagen de Fernando Callasaca
 seo:
     title: ¿Quién es Fernando Callasaca?
@@ -19,7 +19,7 @@ seo:
           value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
           keyName: property
         - name: 'og:image'
-          value: images/fernando_profile.jpg
+          value: /images/fernando_profile.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -29,7 +29,7 @@ seo:
         - name: 'twitter:description'
           value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
-          value: images/fernando_profile.jpg
+          value: /images/fernando_profile.jpg
           relativeUrl: true
 layout: page
 ---

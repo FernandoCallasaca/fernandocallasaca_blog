@@ -39,7 +39,7 @@ seo:
 layout: articulo
 ---
 
-![Modern white table](/images/low_code_no_code.png)
+![Imagen de Low Code](/images/low_code_no_code.png)
 
 ## **¿Qué es No Code y Low Code?**
 
