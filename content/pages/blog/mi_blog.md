@@ -44,7 +44,7 @@ Siempre quise escribir un blog, siempre quise tener un blog y ahora tengo uno.
 
 Hace más o menos 4 o 5 años ví una película "The Social Network" (<a href = 'https://es.wikipedia.org/wiki/The_Social_Network' target="_blank">La Red Social</a>); si desean conocer la historia de Facebook les aconsejo que la vean.
 
-En resumen y no es spoiler <a href = 'https://es.wikipedia.org/wiki/Mark_Zuckerberg' target="_blank">Mark Zuckerberg</a> es un verdadero nerd, hasta el punto que una noche su novia ya no puede más y le termina. Lleno de rabia, escribe en el blog universitario sobre su novia y también escribe cada paso que realiza para crear una web en la que se comparan fotos de las chicas de distintas universidades y se puede votar cuál está más atractiva.
+En resumen y no es spoiler <a href = 'https://es.wikipedia.org/wiki/Mark_Zuckerberg' target="_blank">Mark</a> es un verdadero nerd, hasta el punto que una noche su novia ya no puede más y le termina. Lleno de rabia, escribe en el blog universitario sobre su novia y también escribe cada paso que realiza para crear una web en la que se comparan fotos de las chicas de distintas universidades y se puede votar cuál está más atractiva.
 
 ![Imagen de la Red social](/images/la_red_social.jpg)
 
@@ -58,11 +58,11 @@ Empecé desde 0, línea por línea, div por div, configuración por configuraci�
 
 Es díficil pasar por esa etapa, saber que te gusta programar pero que a medida que avanzas parece nunca terminar.
 
-Hace 3 mes mi curiosidad hizo que forme parte de un grupo de Telegram sobre **Startups** (*lo cual lo dejo para otro blog*), y hace 1 mes en el grupo hablaban sobre ***Herramientas No Code y Low Code*** (por cierto tengo un *artículo* sobre ello así que revísenlo <a href = 'https://fernandocallasaca.com/articulo/no_code_low_code/' target="_blank">aquí</a>). Investigué y ví un curso en Platzi referente a ello y pummm!! cree mí página web.
+Hace 3 mes mi curiosidad hizo que forme parte de un grupo de Telegram sobre **Startups** (*lo cual lo dejo para otro blog*), y hace 1 mes en el grupo hablaban sobre ***Herramientas No Code y Low Code*** (por cierto tengo un *artículo* sobre ello, lo pueden revisar <a href = 'https://fernandocallasaca.com/articulo/no_code_low_code/' target="_blank">aquí</a>). Investigué y ví un curso en Platzi referente a ello y pummm!! cree mí página web.
 
-Parece fácil, bueno... es fácil. Me tardé promedio 4 horas en la creación del sitio web y en temas de compra de dominio, buscar un hosting y esperar validaciones del proveedor. Más o menos el blog se publicó en 3 días. Cree mi blog en 3 días. O sea me pasé más de 3 años intentando, empezando de nuevo, nuevamente intentando y al final con una herramienta Low Code lo hice en 3 días!!, sí en 3 días... (Obviamnente lo aprendido en los 3 años ayudó mucho). Pero... en 3 días!!! Bueno al escribir estas líneas pueden sentir mi expresión de "WTF"!!!
+Parece fácil, bueno... es fácil. Me tardé promedio 4 horas en la creación del sitio web y en temas de compra de dominio, buscar un hosting y esperar validaciones del proveedor. Más o menos el blog se publicó en 3 días. Cree mi blog en 3 días. O sea me pasé más de 3 años intentando, empezando de nuevo, nuevamente intentando y al final con una herramienta Low Code lo hice en 3 días!!, sí en 3 días... (Obviamente lo aprendido en los 3 años ayudó mucho). Pero... en 3 días!!! Bueno al escribir estas líneas pueden sentir mi expresión de "WTF"!!!
 
-Bueno hace poco cree mi primer artículo y ahora este es mi primera publicación en el apartado de "Blogs", así que espero que les guste, pásense por aquí cada semana ya que estaré subiendo cualquier cosa que me pase o me haya pasado.
+Bueno hace poco cree mi <a href = 'https://fernandocallasaca.com/articulo/no_code_low_code/' target="_blank">primer artículo</a> y ahora este es mi primera publicación en el apartado de "<a href = 'https://fernandocallasaca.com/blog/' target="_blank">Blogs</a>", así que espero que les guste. Les invito a pasarse por aquí cada semana, ya que estaré subiendo cualquier cosa que me pase o me haya pasado.
 
 Gracias por leerme. Y no me voy sin antes dejarles una frase del creador de Facebook.
 
