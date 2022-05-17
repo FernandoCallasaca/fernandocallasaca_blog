@@ -1,17 +1,17 @@
 ---
 title: Mi Blog
 excerpt: >-
-    ¿Cómo es que cree este blog? Acompáñame en mi historia.
+    ¿Cómo se creó este blog? Acompáñame en mi historia.
 date: '2022-05-17'
 thumb_image: images/blog.jpg
-thumb_image_alt: A pile of books on the table
+thumb_image_alt: Imagen de un blog en letras
 # para colocar la imagen al 100% width
 # image: images/12.jpg
 # image_alt: A pile of books on the table
 seo:
     title: Mi blog
     description: >-
-        ¿Cómo se creó este blog? Acompáñame en mi historia. 
+        ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
     extra:
         - name: 'og:type'
           value: article
@@ -21,7 +21,7 @@ seo:
           keyName: property
         - name: 'og:description'
           value: >-
-              ¿Cómo se creó este blog? Acompáñame en mi historia. 
+              ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
           keyName: property
         - name: 'og:image'
           value: images/blog.jpg
@@ -33,12 +33,13 @@ seo:
           value: Mi Blog
         - name: 'twitter:description'
           value: >-
-              ¿Cómo se creó este blog? Acompáñame en mi historia. 
+              ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
         - name: 'twitter:image'
           value: images/blog.jpg
           relativeUrl: true
 layout: post
 ---
+<div style="text-align: justify;">
 
 Siempre quise escribir un blog, siempre quise tener un blog y ahora tengo uno.
 
@@ -62,7 +63,8 @@ Hace 1 mes mi curiosidad hizo que forme parte de un grupo de Telegram sobre Star
 
 Parece fácil, bueno... es fácil. Me tardé promedio 4 horas y en tema de compra de dominio, buscar un hosting gratuito, esperar validaciones más o menos el blog se publicó en 2 días. O sea cree mi blog en promedio 3 días. O sea me pasé más de 3 años intentando, empezando de nuevo, nuevamente intentando y al final con una herramienta Low Code lo hice en 3 días!!, sí en 3 días... (Obviamnente lo aprendido en los 3 años ayudó mucho). Pero.. en 3 días!!! Bueno al escribir estas líneas pueden sentir mi expresión de "WTF"!!!
 
-Bueno cree mi primer artículo y ahora este es mi primera publicación en el apartado de "Blogs" así que espero continuar. Gracias por leerme.
+Bueno hace poco cree mi primer artículo y ahora este es mi primera publicación en el apartado de "Blogs" así que espero que les guste. Gracias por leerme.
 
+> "La pregunta no es ¿qué queremos saber de la gente?, sino ¿qué quieren saber las personas de ellas mismas?" Mark Zuckerberg
 
-> Leer y leer
+</div>

@@ -10,7 +10,7 @@ thumb_image_alt: Imagen de Low Code y No Code
 seo:
     title: Herramientas No Code y Low Code
     description: >-
-        Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
+        Artículo sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
     extra:
         - name: 'og:type'
           value: article
@@ -20,7 +20,7 @@ seo:
           keyName: property
         - name: 'og:description'
           value: >-
-              Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
+              Artículo sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
           keyName: property
         - name: 'og:image'
           value: /images/low_code_no_code.png
@@ -32,7 +32,7 @@ seo:
           value: Herramientas No Code y Low Code
         - name: 'twitter:description'
           value: >-
-              Blog sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
+              Artículo sobre No Code y Low Code: Creación de aplicaciones, sitios web y automatización de procesos. Creado por @fernandocallasaca
         - name: 'twitter:image'
           value: /images/low_code_no_code.png
           relativeUrl: true
