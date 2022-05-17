@@ -1,15 +1,14 @@
 ---
-title: Mi Blog
+title: La construcción de mi Blog
+subtitle: >-
+    ¿Cómo se creó este blog? Acompáñame en mi historia.
 excerpt: >-
     ¿Cómo se creó este blog? Acompáñame en mi historia.
 date: '2022-05-17'
 thumb_image: /images/blog.jpg
 thumb_image_alt: Imagen de un blog en letras
-# para colocar la imagen al 100% width
-# image: images/12.jpg
-# image_alt: A pile of books on the table
 seo:
-    title: Mi blog
+    title: La construcción de mi Blog
     description: >-
         ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
     extra:
@@ -17,7 +16,7 @@ seo:
           value: article
           keyName: property
         - name: 'og:title'
-          value: Mi blog
+          value: La construcción de mi Blog
           keyName: property
         - name: 'og:description'
           value: >-
@@ -30,7 +29,7 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Mi Blog
+          value: La construcción de mi Blog
         - name: 'twitter:description'
           value: >-
               ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
