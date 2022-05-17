@@ -50,7 +50,7 @@ En resumen y no es spoiler <a href = 'https://es.wikipedia.org/wiki/Mark_Zuckerb
 
 En ese entonces yo seguía estudiando Ing. Informática y de Sistemas en la Universidad Nacional de San Antonio Abad del Cusco más conocida como la UNSAAC. Pero no tenía mucho conocimiento, por decir casi nada sobre la "web", en realidad sobre crear una página web; por ejemplo, temas relacionados a HTML, CSS y JavaScript.
 
-Tuve que pasar varios intentos de aprendizaje hasta que llegué a una empresa de desarrollo web en el cual sí o sí tenía que aprender "La web" a nivel profesional. Y ahí viene la famosa frase "Trabajar bajo presión, hace que apredas rápido". Literalmente sí funciona, sin darme cuenta aprendí en menos de 3 meses lo que no pude por varios años.
+Tuve que pasar varios intentos de aprendizaje hasta que llegué a una empresa de desarrollo web en el cual sí o sí tenía que aprender "La web" a nivel profesional. Y ahí viene la famosa frase "Trabajar bajo presión, hace que aprendas rápido". Literalmente sí funciona, sin darme cuenta aprendí en menos de 3 meses lo que no pude por varios años.
 
 Así que empecé a estudiar en una plataforma de E-learning conocida como <a href = 'https://platzi.com/' target="_blank">Platzi</a>. Mi curiosidad y mis ganas de aprender hicieron que pueda aspirar a ser un Frontend Developer, pero nuevamente tuve que pisar tierra y entender que con mis conocimientos solo podía hacer un "hola mundo". Y sí, aunque no parezca, eso ya era suficiente para crear un blog.
 
