@@ -1,6 +1,6 @@
 ---
 title: Home
-thumb_image: /images/blog.jpg
+thumb_image: images/blog.jpg
 hide_title: true
 sections:
     - section_id: hero
@@ -105,7 +105,7 @@ seo:
         - name: 'twitter:description'
           value: Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
-          value: /images/blog.jpg
+          value: images/blog.jpg
           relativeUrl: true
 layout: advanced
 ---
