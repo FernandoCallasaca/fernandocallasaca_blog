@@ -7,7 +7,7 @@ thumb_image: /images/fernando_profile.jpg
 thumb_image_alt: Imagen de Fernando Callasaca
 seo:
     title: ¿Quién es Fernando Callasaca?
-    description: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
+    description: Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
     extra:
         - name: 'og:type'
           value: website
@@ -16,7 +16,7 @@ seo:
           value: ¿Quién es Fernando Callasaca?
           keyName: property
         - name: 'og:description'
-          value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
+          value: Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
           keyName: property
         - name: 'og:image'
           value: /images/fernando_profile.jpg
@@ -27,7 +27,7 @@ seo:
         - name: 'twitter:title'
           value: ¿Quién es Fernando Callasaca?
         - name: 'twitter:description'
-          value: Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
+          value: Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
           value: /images/fernando_profile.jpg
           relativeUrl: true

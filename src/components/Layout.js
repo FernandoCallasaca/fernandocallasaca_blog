@@ -43,7 +43,7 @@ export default class Body extends React.Component {
         const title = seoTitle ? seoTitle : [pageTitle, configTitle].join(' | ');
         const description = seoDescription
             ? seoDescription
-            : 'Data Scientist - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪';
+            : 'Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪';
         const ogImage = seoImage ? seoImage : 'icon-192x192.png';
         const url = seoUrl ? `https://fernandocallasaca.com/${seoUrl}` : 'https://fernandocallasaca.com/';
         const seoRobots = _.get(seo, 'robots', []).join(',');
