@@ -3,7 +3,6 @@ title: ¿Quién es Fernando Callasaca Acuña?
 # subtitle: Aquí tendrás mi perfil actualizado.
 # image: images/fernando_profile.jpg
 # image_alt: A man taking a picture
-date: '2022-05-18'
 thumb_image: /images/fernando_profile.jpg
 thumb_image_alt: Imagen de Fernando Callasaca
 seo:
@@ -61,5 +60,7 @@ Tengo habilidades en análisis, empatía, autoformación, responsabilidad y comp
 Me apasiona investigar, tener una visión a futuro, leer, escribir y crear contenido sobre tecnología, innovación, ciencia de datos y en este blog espero compartir una parte de mis conocimientos.
 
 > Piensa como adulto, vive como joven, aconseja como anciano y nunca pares de soñar como un niño. - Jurgen Klaric
+
+*Actualizado: Mayo 18, 2022*
 
 </div>
