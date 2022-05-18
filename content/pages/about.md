@@ -43,7 +43,7 @@ layout: page
 
 Peruano, originario de Cusco. Actualmente soy **Data Scientist & Data Engineer** en <a href = 'https://www.indracompany.com/' target="_blank">Indra</a> para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>, soy **Data Scientist** en <a href = 'https://thinkingfood-platzi.web.app/home' target="_blank">Thinking Food</a>, Startup dedicada a hacer que cocinar sea simple. También soy **Coordinador del Programa** <a href = 'https://saltoperu.com/' target="_blank">Atisun Lab en Salto Perú</a> (Incubadora de Ideas de Negocio), quienes buscan promover las habilidades tecnológicas y apoyar a jóvenes líderes para lanzar proyectos digitales con impacto social.
 
-Desarrollé el liderazgo y organización en eventos académicos y actividades sociales, participando fuertemente en voluntariados como Data Science Researh Perú, Impact Startup Competition y Salto Perú. Soy un apasionado por las tecnologías particularmente por la Ciencia de Datos y hoy en día voy descubriendo el mundo del emprendimiento e innovación en Startups.
+Desarrollé el liderazgo y organización en eventos académicos y actividades sociales, participando fuertemente en voluntariados como <a href = 'https://www.datascience.pe/' target="_blank">Data Science Researh Perú</a>, <a href = 'https://www.impactstartupcompetition.com/' target="_blank">Impact Startup Competition</a> y <a href = 'https://saltoperu.com/' target="_blank">Salto Perú</a>. Soy un apasionado por las tecnologías particularmente por la Ciencia de Datos y hoy en día voy descubriendo el mundo del emprendimiento e innovación en Startups.
 
 ### Especialidades
 
@@ -57,7 +57,7 @@ Tengo habilidades en análisis, empatía, autoformación, responsabilidad y comp
 
 ### Interes
 
-Me apasiona investigar, tener una visión a futuro, leer y crear contenido sobre tecnología, innovación, ciencia de datos y en este blog espero compartir una parte de mis conocimientos.
+Me apasiona investigar, tener una visión a futuro, leer, escribir y crear contenido sobre tecnología, innovación, ciencia de datos y en este blog espero compartir una parte de mis conocimientos.
 
 > Piensa como adulto, vive como joven, aconseja como anciano y nunca pares de soñar como un niño. - Jurgen Klaric
 
