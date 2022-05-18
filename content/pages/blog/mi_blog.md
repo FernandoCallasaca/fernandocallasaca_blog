@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
     ¿Cómo se creó este blog? Acompáñame en mi historia.
 date: '2022-05-17'
-thumb_image: /images/blog.jpg
+thumb_image: images/blog.jpg
 thumb_image_alt: Imagen de un blog en letras
 seo:
     title: La construcción de mi Blog
@@ -23,7 +23,7 @@ seo:
               ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
           keyName: property
         - name: 'og:image'
-          value: /images/blog.jpg
+          value: images/blog.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
           value: >-
               ¿Cómo se creó este blog? Acompáñame en mi historia. Creado por @fernandocallasaca
         - name: 'twitter:image'
-          value: /images/blog.jpg
+          value: images/blog.jpg
           relativeUrl: true
 layout: post
 ---

@@ -105,7 +105,7 @@ seo:
         - name: 'twitter:description'
           value: Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
         - name: 'twitter:image'
-          value: /icon-192x192.png
+          value: /images/blog.jpg
           relativeUrl: true
 layout: advanced
 ---
