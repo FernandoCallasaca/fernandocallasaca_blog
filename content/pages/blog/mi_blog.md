@@ -64,7 +64,7 @@ Parece fácil, bueno... es fácil. Me tardé promedio 4 horas en la creación de
 
 Bueno hace poco cree mi <a href = 'https://fernandocallasaca.com/articulo/no_code_low_code/' target="_blank">primer artículo</a> y ahora esta es mi primera publicación en el apartado de "<a href = 'https://fernandocallasaca.com/blog/' target="_blank">Blogs</a>", así que espero que les guste. Les invito a pasarse por aquí cada semana, ya que estaré subiendo cualquier cosa que me pase o me haya pasado.
 
-Gracias por leerme. Y no me voy sin antes dejarles una frase del creador de Facebook.
+Gracias por leerme, si desean saber un poco sobre mí... <a href = 'https://fernandocallasaca.com/about/' target="_blank">aquí</a>. Y no me voy sin antes dejarles una frase del creador de Facebook.
 
 > "La pregunta no es ¿qué queremos saber de la gente?, sino ¿qué quieren saber las personas de ellas mismas?" - Mark Zuckerberg
 
