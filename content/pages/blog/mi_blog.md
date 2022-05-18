@@ -62,7 +62,7 @@ Hace 3 mes mi curiosidad hizo que forme parte de un grupo de Telegram sobre **St
 
 Parece fácil, bueno... es fácil. Me tardé promedio 4 horas en la creación del sitio web y en temas de compra de dominio, buscar un hosting y esperar validaciones del proveedor. Más o menos el blog se publicó en 3 días. Cree mi blog en 3 días. O sea me pasé más de 3 años intentando, empezando de nuevo, nuevamente intentando y al final con una herramienta Low Code lo hice en 3 días!!, sí en 3 días... (Obviamente lo aprendido en los 3 años ayudó mucho). Pero... en 3 días!!! Bueno al escribir estas líneas pueden sentir mi expresión de "WTF"!!!
 
-Bueno hace poco cree mi <a href = 'https://fernandocallasaca.com/articulo/no_code_low_code/' target="_blank">primer artículo</a> y ahora este es mi primera publicación en el apartado de "<a href = 'https://fernandocallasaca.com/blog/' target="_blank">Blogs</a>", así que espero que les guste. Les invito a pasarse por aquí cada semana, ya que estaré subiendo cualquier cosa que me pase o me haya pasado.
+Bueno hace poco cree mi <a href = 'https://fernandocallasaca.com/articulo/no_code_low_code/' target="_blank">primer artículo</a> y ahora esta es mi primera publicación en el apartado de "<a href = 'https://fernandocallasaca.com/blog/' target="_blank">Blogs</a>", así que espero que les guste. Les invito a pasarse por aquí cada semana, ya que estaré subiendo cualquier cosa que me pase o me haya pasado.
 
 Gracias por leerme. Y no me voy sin antes dejarles una frase del creador de Facebook.
 
