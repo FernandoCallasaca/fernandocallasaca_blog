@@ -47,6 +47,16 @@ sections:
                 Participando en distintos proyectos de desarrollo web como Frontend Developer utilizando
                 frameworks como Angular y React; realizando proyectos para Adinelsa, Ministerio de Energía y Minas,
                 Gobierno Regional del Cusco, etc.
+    - section_id: latest-posts
+      type: section_posts
+      title: Últimos Blogs
+      subtitle: Actualizaciones de blogs
+      posts_number: 2
+      col_number: two
+      actions:
+          - label: View Blog
+            url: blog
+            style: button
     - section_id: testimonials
       type: section_testimonials
       title: Personas a las que admiro
@@ -71,16 +81,6 @@ sections:
             content: >-
                 No deberías hacer las cosas de manera diferente solamente para que sean distintas. Necesitan
                 ser mejores.
-    - section_id: latest-posts
-      type: section_posts
-      title: Últimos Blogs
-      subtitle: Actualizaciones de blogs
-      posts_number: 2
-      col_number: two
-      actions:
-          - label: View Blog
-            url: blog
-            style: button
 seo:
     title: Fernando Callasaca
     description: Blog, artículos y portafolio de Fernando Callasaca @fernandocallasaca
@@ -95,7 +95,7 @@ seo:
           value: Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
           keyName: property
         - name: 'og:image'
-          value: /icon-192x192.png
+          value: /icon-512x512.png #icon-192x192.png
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
