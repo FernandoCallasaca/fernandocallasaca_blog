@@ -98,7 +98,7 @@ export default class Body extends React.Component {
                     <meta property="og:site_name" content={title} />
                     <meta property="og:locale" content="es_ES" />
                     <meta property="og:type" content="article" />
-                    {/* <meta property="fb:app_id" content="536981631376846" /> */}
+                    <meta property="fb:app_id" content="536981631376846" />
 
                     <link rel="manifest" href="/manifest.json" />
 

@@ -7,6 +7,7 @@ excerpt: >-
 date: '2022-05-31'
 thumb_image: /images/youre_hired.jpg
 thumb_image_alt: Imagen del perfil de LinkedIn de @fernandocallasaca
+url: blog/get_job
 seo:
     title: Mi Primer Empleo Formal en Ciencia de Datos
     description: >-

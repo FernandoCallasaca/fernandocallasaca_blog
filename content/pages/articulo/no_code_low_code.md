@@ -7,6 +7,7 @@ excerpt: >-
 date: '2022-04-24'
 thumb_image: /images/low_code_no_code.png
 thumb_image_alt: Imagen de Low Code y No Code
+url: articulo/no_code_low_code
 seo:
     title: Herramientas No Code y Low Code
     description: >-

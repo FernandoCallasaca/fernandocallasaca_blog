@@ -7,6 +7,7 @@ excerpt: >-
 date: '2022-05-17'
 thumb_image: /images/blog.jpg
 thumb_image_alt: Imagen de un blog en letras
+url: blog/mi_blog
 seo:
     title: La construcción de mi Blog
     description: >-
