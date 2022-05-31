@@ -68,9 +68,9 @@ Pero no pasé a la siguiente etapa, no me volvieron a llamar, se quedó en la fa
 
 Tuve la oportunidad de trabajar de manera Freelance con el tema de WebScraping con Python y gracias a ello conocí en un grupo de Telegram al CEO de una **Startup** <a href = 'https://thinkingfood-platzi.web.app/home' target="_blank">Thinking Food</a> donde me desempeño como **Data Scientist**.
 
-Para poder encontrar un empleo formal en **Ciencia de Datos** pasé por muchas entrevistas, algunas más emocionantes que otras, entrevistas en las cuales das todo tipo de pruebas (*las que son para sector financiero son mucho más estrictos*). Aquí es donde valoro y recomiendo mucho tener tu perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a> actualizado. Gracias a ello las empresas me contactaron por DM (Direct Message). Y gracias a todas las entrevistas puedo decir que pasé por diferentes etapas del proceso de convocatoria de varias empresas, llegué varias veces hasta la etapa final y en una esas recibí la llamada final.
+Para poder encontrar un empleo formal en **Ciencia de Datos** pasé por muchas entrevistas, algunas más emocionantes que otras, entrevistas en las cuales das todo tipo de pruebas (*las que son para sector financiero son mucho más estrictos*). Aquí es donde valoro y recomiendo tener tu perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a> actualizado. Gracias a ello las empresas me contactaron por DM (Direct Message). Y gracias a todas las entrevistas puedo decir que pasé por diferentes etapas del proceso de convocatoria de varias empresas, llegué varias veces hasta la etapa final y en una esas recibí la llamada final.
 
-> Recomiendo mucho tener actualizado tu perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>
+> Recomiendo tener actualizado tu perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>
 
 ![Foto del Perfil de @fernandocallasaca en LinkedIn](/images/linkedin_profile.png)
 
@@ -80,11 +80,10 @@ Bueno mi historia acaba de empezar, actualmente estoy empezando una nueva etapa 
 
 Creo firmemente que nada es imposible si realmente te lo propones. Estoy listo y bastante emocionado por los nuevos desafíos.
 
+Gracias por tomarte el tiempo de leerme, si desean saber un poco sobre mí... <a href = 'https://fernandocallasaca.com/about/' target="_blank">aquí</a>.
+
 Aquí les dejo una captura de un DM (Direct Message) de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>.
 
-> Todo empezó con un "No sé si te guste participar".
 ![Captura de Mensaje en LinkedIn](/images/message_linkedin.png)
-
-Gracias por tomarte el tiempo de leerme, si desean saber un poco sobre mí... <a href = 'https://fernandocallasaca.com/about/' target="_blank">aquí</a>.
 
 </div>
