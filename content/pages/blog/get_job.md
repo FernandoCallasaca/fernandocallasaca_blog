@@ -74,7 +74,7 @@ Para poder encontrar un empleo formal en **Ciencia de Datos** pasé por muchas e
 
 ![Foto del Perfil de @fernandocallasaca en LinkedIn](/images/linkedin_profile.png)
 
-Esa llamada esperada en la que haces gritos silenciosos, nuevamente sientes las benditas mariposas en el estómago, crees que es un sueño y tienes que darte una cachetada en la cara para regresar a la realidad. Solo escuchas decir las palabras "*Te llamaba porque tengo buenas noticias para tí. Haz quedado seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>*" y luego ya te explican sobre temas de beneficios, planilla, CTS, vacaciones, seguros, descuentos, etc (esto lo sé porque tengo la grabación, caso contrario solo sabría que fuí seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>).
+Sí, recibí la llamada final. Esa llamada esperada en la que haces gritos silenciosos, nuevamente sientes las benditas mariposas en el estómago, crees que es un sueño y tienes que darte una cachetada en la cara para regresar a la realidad. Solo escuchas decir las palabras "*Te llamaba porque tengo buenas noticias para tí. Haz quedado seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>*" y luego ya te explican sobre temas de beneficios, planilla, CTS, vacaciones, seguros, descuentos, etc (esto lo sé porque tengo la grabación, caso contrario solo sabría que fuí seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>).
 
 Bueno mi historia acaba de empezar, actualmente estoy empezando una nueva etapa profesional formando parte de la familia <a href = 'https://www.indracompany.com/' target="_blank">Indra</a> para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>. Y me encuentro bastante emocionado de poder seguir aprendiendo y generar valor en los diferentes proyectos de los que soy parte.
 
@@ -82,7 +82,7 @@ Creo firmemente que nada es imposible si realmente te lo propones. Estoy listo y
 
 Gracias por tomarte el tiempo de leerme, si desean saber un poco sobre mí... <a href = 'https://fernandocallasaca.com/about/' target="_blank">aquí</a>.
 
-Aquí les dejo una captura de un DM (Direct Message) de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>.
+Aquí les dejo una captura de un DM (Direct Message) de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>, como les dije anteriormente "**Recomiendo tener actualizado vuestro perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>**".
 
 ![Captura de Mensaje en LinkedIn](/images/message_linkedin.png)
 
