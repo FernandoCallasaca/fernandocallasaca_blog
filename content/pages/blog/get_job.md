@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
    Todo empezó con una pregunta: ¿Qué es Ciencia de Datos?
 date: '2022-05-31'
-thumb_image: /images/bbva_indra.png
+thumb_image: /images/youre_hired.jpg
 thumb_image_alt: Imagen del perfil de LinkedIn de @fernandocallasaca
 seo:
     title: Primer Empleo Formal en Ciencia de Datos
@@ -23,7 +23,7 @@ seo:
                Todo empezó con una pregunta: ¿Qué es Ciencia de Datos? Creado por @fernandocallasaca
           keyName: property
         - name: 'og:image'
-          value: /images/bbva_indra.png
+          value: /images/youre_hired.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
           value: >-
                Todo empezó con una pregunta: ¿Qué es Ciencia de Datos? Creado por @fernandocallasaca
         - name: 'twitter:image'
-          value: /images/bbva_indra.png
+          value: /images/youre_hired.jpg
           relativeUrl: true
 layout: post
 ---
