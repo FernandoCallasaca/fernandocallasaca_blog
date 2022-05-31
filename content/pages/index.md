@@ -1,6 +1,6 @@
 ---
 title: Home
-thumb_image: images/blog.jpg #images/blog.jpg
+# thumb_image: images/blog.jpg #images/blog.jpg
 hide_title: true
 sections:
     - section_id: hero
