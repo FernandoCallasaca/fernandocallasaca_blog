@@ -12,14 +12,16 @@ sections:
           - label: Let's talk!
             url: /contact
             style: button
-    - section_id: latest-projects
-      type: section_portfolio
-      layout_style: mosaic
-      title: Artículos #Recent Work
-      subtitle: Aquí presentaremos nuestros últimos artículos #An optional subtitle of the section
-      projects_number: 2 #6
-      view_all_label: Ver todos
-      view_all_url: articulo
+    - section_id: latest-posts
+      type: section_posts
+      title: Últimos Blogs
+      subtitle: Actualizaciones de blogs
+      posts_number: 2
+      col_number: two
+      actions:
+          - label: View Blog
+            url: blog
+            style: button
     - section_id: services
       type: section_grid
       title: Actualmente #What We Do
@@ -47,16 +49,14 @@ sections:
                 Participando en distintos proyectos de desarrollo web como Frontend Developer utilizando
                 frameworks como Angular y React; realizando proyectos para Adinelsa, Ministerio de Energía y Minas,
                 Gobierno Regional del Cusco, etc.
-    - section_id: latest-posts
-      type: section_posts
-      title: Últimos Blogs
-      subtitle: Actualizaciones de blogs
-      posts_number: 2
-      col_number: two
-      actions:
-          - label: View Blog
-            url: blog
-            style: button
+    - section_id: latest-projects
+      type: section_portfolio
+      layout_style: mosaic
+      title: Artículos #Recent Work
+      subtitle: Aquí presentaremos nuestros últimos artículos #An optional subtitle of the section
+      projects_number: 2 #6
+      view_all_label: Ver todos
+      view_all_url: articulo
     - section_id: testimonials
       type: section_testimonials
       title: Personas a las que admiro
