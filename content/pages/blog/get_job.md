@@ -53,11 +53,11 @@ En agosto del 2021 escuché a alguien mencionar sobre **Ciencia de Datos, Machin
 
 No recuerdo cuanto tiempo estuvo absolviendo mis preguntas, pero "tú" (amiga) si estás leyendo esto. Lo siento, solo quería quitarme ese peso de encima. Pero... la verdad es que ese peso lo cargo en mi día a día (literal).
 
-Y sí, ahora laboro en ello. Pero ahora laboro de manera "formal". Para ser exactos asumo roles de **Data Scientist** y **Data Enginner**, dependiendo de la tarea asignada voy variando roles.
+Y sí, ahora laboro en ello. Pero ahora de manera "formal". Para ser exactos asumo roles de **Data Scientist** y **Data Enginner**, dependiendo de la tarea asignada voy variando roles.
 
 Bueno regresando a agosto del 2021. Mi amiga supongo que se cansó de mis preguntas porque me dijo: "*Fer por favor, hay un curso de <strong>IBM</strong> en <a href = 'https://www.coursera.org/' target="_blank">Coursera</a> donde te explican todos los conceptos, funciones de cada rol e incluso te dan a conocer los campos de aplicación, toda la parte conceptual de Ciencia de Datos está ahí*".
 
-Ahora sé que fue un excelente consejo. Así fue como empezó mi vida en la Ciencia de Datos.
+Ahora sé que fue un excelente consejo. Así fue como empezó mi camino en la Ciencia de Datos.
 
 Obviamente llevé ese curso; ¿recuerdan que me gustaba mejorar aspectos de una empresa y que soy muy observador? Bueno los que me conocen saben que también soy muy curioso. Literalmente a medida que llevaba el curso sentía que era lo que necesitaba, sentía que era el camino para responder a muchas de mis inquietudes, sentía que había encontrado mi área ideal. Bueno sentí mariposas en el estómago... jajajaja algo así.
 
@@ -74,6 +74,7 @@ Para poder encontrar un empleo formal en **Ciencia de Datos** pasé por muchas e
 > Recomiendo tener actualizado tu perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>
 
 ![Foto del Perfil de @fernandocallasaca en LinkedIn](/images/linkedin_profile.png)
+*Foto del Perfil de @fernandocallasaca en LinkedIn - 31 de Mayo 2022*
 
 Sí, recibí la llamada final. Esa llamada esperada en la que haces gritos silenciosos, nuevamente sientes las benditas mariposas en el estómago, crees que es un sueño y tienes que darte una cachetada en la cara para regresar a la realidad. Solo escuchas decir las palabras "***Te llamaba porque tengo buenas noticias para tí. Has quedado seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>***" y luego ya te explican sobre temas de beneficios, planilla, CTS, vacaciones, seguros, descuentos, etc. (esto lo sé porque tengo la grabación, caso contrario solo sabría que fui seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>).
 
