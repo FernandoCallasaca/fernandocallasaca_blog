@@ -53,7 +53,7 @@ En Agosto del 2021 escuché a alguien mencionar sobre **Ciencia de Datos, Machin
 
 No recuerdo cuanto tiempo estuvo absolviendo mis preguntas, pero "tú" (amiga) si estás leyendo esto. Lo siento, solo quería quitarme ese peso de encima. Pero... la verdad es que ese peso lo cargo en mi día a día (literal).
 
-Y sí, ahora laboro en ello. Para ser exactos asumo roles de **Data Scientist** y **Data Enginner**, dependiendo de la tarea asignada voy variendo de roles.
+Y sí, ahora laboro en ello. Pero ahora laboro de manera "formal". Para ser exactos asumo roles de **Data Scientist** y **Data Enginner**, dependiendo de la tarea asignada voy variendo de roles.
 
 Bueno regresando a Agosto del 2021. Mi amiga supongo que se cansó de mis preguntas porque me dijo: "*Fer por favor, hay un curso de <strong>IBM</strong> en <a href = 'https://www.coursera.org/' target="_blank">Coursera</a> donde te explican todos los conceptos, funciones de cada rol e incluso te dan a conocer los campos de aplicación, toda la parte conceptual de Ciencia de Datos está ahí*".
 
@@ -81,9 +81,9 @@ Bueno mi historia acaba de empezar, actualmente estoy empezando una nueva etapa 
 
 Creo firmemente que **nada es imposible** si realmente te lo propones. Siempre estoy listo y bastante emocionado por los nuevos desafíos.
 
-Gracias por tomarte el tiempo de leerme, si desean saber un poco sobre mí... <a href = 'https://fernandocallasaca.com/about/' target="_blank">aquí</a>.
+Gracias por tomarte el tiempo de leerme, si deseas saber un poco más sobre mí... <a href = 'https://fernandocallasaca.com/about/' target="_blank">aquí</a> y si deseas conocer la aventura detrás de la creacion de este blog lo pueden ver <a href = 'https://fernandocallasaca.com/blog/mi_blog/' target="_blank">aquí</a>.
 
-Aquí les dejo una captura de un DM (Direct Message) de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>, como les dije anteriormente "**Recomiendo tener actualizado vuestro perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>**".
+Aquí les dejo una captura de un DM (Direct Message) de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a> que hizo posible *Mi Primer Trabajo "formal" en Ciencia de Datos*, como les dije anteriormente "**Recomiendo tener actualizado vuestro perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>**".
 
 ![Captura de Mensaje en LinkedIn](/images/message_linkedin.png)
 
