@@ -74,7 +74,7 @@ Para poder encontrar un empleo formal en **Ciencia de Datos** pasé por muchas e
 > Recomiendo tener actualizado tu perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">LinkedIn</a>
 
 ![Foto del Perfil de @fernandocallasaca en LinkedIn](/images/linkedin_profile.png)
-*Foto del Perfil de @fernandocallasaca en LinkedIn - 31 de Mayo 2022*
+*Foto del Perfil de <a href = 'https://www.linkedin.com/in/fernandocallasaca' target="_blank">@fernandocallasaca</a> en LinkedIn - Mayo 31 de 2022*
 
 Sí, recibí la llamada final. Esa llamada esperada en la que haces gritos silenciosos, nuevamente sientes las benditas mariposas en el estómago, crees que es un sueño y tienes que darte una cachetada en la cara para regresar a la realidad. Solo escuchas decir las palabras "***Te llamaba porque tengo buenas noticias para tí. Has quedado seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>***" y luego ya te explican sobre temas de beneficios, planilla, CTS, vacaciones, seguros, descuentos, etc. (esto lo sé porque tengo la grabación, caso contrario solo sabría que fui seleccionado para el banco <a href = 'https://www.bbva.pe/' target="_blank">BBVA</a>).
 
