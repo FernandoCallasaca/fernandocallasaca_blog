@@ -55,7 +55,7 @@ Desde la universidad me desempeñé como Data Enginner; creando, modelando y opt
 
 Tengo habilidades en análisis, empatía, autoformación, responsabilidad y compromiso con el trabajo.
 
-### Interes
+### Intereses
 
 Me apasiona investigar, tener una visión a futuro, leer, escribir y crear contenido sobre tecnología, innovación, ciencia de datos y en este blog espero compartir una parte de mis conocimientos.
 
