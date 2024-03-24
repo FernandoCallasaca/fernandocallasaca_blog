@@ -7,7 +7,7 @@ sections:
       type: section_hero
       title: 'Fernando Callasaca Acuña'
       content: >-
-          Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - AWS Cloud - Power BI - Startups - 🇵🇪
+          Data Scientist - Business Intelligence - Data Engineer - Data Analytics - Machine Learning - Statistics - AWS Cloud - Power BI - Startups - 🇵🇪
       actions:
           - label: Conversemos!
             url: /contact
