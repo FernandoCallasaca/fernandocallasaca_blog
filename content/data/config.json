@@ -18,6 +18,11 @@
                 "style": "link"
             },
             {
+                "label": "Portafolio",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
                 "label": "Artículos",
                 "url": "/articulo/",
                 "style": "link"
