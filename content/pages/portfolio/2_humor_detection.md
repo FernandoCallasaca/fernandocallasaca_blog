@@ -6,6 +6,7 @@ thumb_image: images/humor_detection.jpg
 thumb_image_alt: Humor Detection Text
 image: images/humor_detection.jpg
 image_alt: Humor Detection Text
+url: portfolio/humor_detection_ml
 seo:
     title: Humor Detection
     description: Decision Tree Classifier - Machine Learning
@@ -32,7 +33,7 @@ seo:
         - name: 'twitter:image'
           value: images/2.jpg
           relativeUrl: true
-layout: project
+layout: portfolio
 ---
 
 > En construcción.

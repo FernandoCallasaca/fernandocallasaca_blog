@@ -6,6 +6,7 @@ thumb_image: images/car_price_detection.jpg
 thumb_image_alt: 'Car price detection'
 image: images/car_price_detection.jpg
 image_alt: 'Car price detection'
+url: portfolio/car_price_ml
 seo:
     title: Car Price
     description: Regression Model - Machine Learning
@@ -32,7 +33,7 @@ seo:
         - name: 'twitter:image'
           value: images/1.jpg
           relativeUrl: true
-layout: project
+layout: portfolio
 ---
 
 > En construcción.
