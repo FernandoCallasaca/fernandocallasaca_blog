@@ -6,14 +6,14 @@ import { getPageUrl, Link, withPrefix } from '../utils';
 import moment from 'moment-strftime';
 
 export default class Portfolio extends React.Component {
-    renderProject(project, index) {
-        const title = _.get(project, 'title');
-        const thumbImage = _.get(project, 'thumb_image');
-        const thumbImageAlt = _.get(project, 'thumb_image_alt', '');
-        const projectUrl = getPageUrl(project, { withPrefix: true });
+    renderProject(proyectos, index) {
+        const title = _.get(proyectos, 'title');
+        const thumbImage = _.get(proyectos, 'thumb_image');
+        const thumbImageAlt = _.get(proyectos, 'thumb_image_alt', '');
+        const projectUrl = getPageUrl(proyectos, { withPrefix: true });
 
-        const date = _.get(project, 'date');
-        const excerpt = _.get(project, 'excerpt');
+        const date = _.get(proyectos, 'date');
+        const excerpt = _.get(proyectos, 'excerpt');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
 
