@@ -388,6 +388,46 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  proyectos:
+    type: page
+    urlPath: '/portfolio/{slug}'
+    label: Portafolio
+    layout: portfolio
+    folder: portfolio
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the project
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the project title.
+      - type: date
+        name: date
+        label: Date
+        required: true
+      - type: image
+        name: thumb_image
+        label: Image (Portfolio)
+        description: The image shown in the portfolio page.
+      - type: string
+        name: thumb_image_alt
+        label: Image Alt Text (Portfolio)
+        description: The alt text of the portfolio page image.
+      - type: image
+        name: image
+        label: Image (Single Project)
+        description: The image shown in the single project.
+      - type: string
+        name: image_alt
+        label: Image Alt Text (Single Project)
+        description: The alt text of the single project image.
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   section:
     type: object
     label: Section
