@@ -61,6 +61,6 @@ Me apasiona investigar, tener una visión a futuro, leer, escribir y crear conte
 
 > Piensa como adulto, vive como joven, aconseja como anciano y nunca pares de soñar como un niño. - Jurgen Klaric
 
-*Actualizado: Mayo 31, 2022*
+*Actualizado: Marzo 24, 2024*
 
 </div>

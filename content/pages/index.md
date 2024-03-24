@@ -7,9 +7,9 @@ sections:
       type: section_hero
       title: 'Fernando Callasaca Acuña'
       content: >-
-          Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - Startups - Emprendimiento - Software Engineer - Web Developer - 🇵🇪
+          Data Scientist - Data Engineer - Data Analytics - Machine Learning - Statistics - AWS Cloud - Power BI - Startups - 🇵🇪
       actions:
-          - label: Let's talk!
+          - label: Conversemos!
             url: /contact
             style: button
     - section_id: latest-posts
@@ -33,22 +33,18 @@ sections:
             content: >-
                 Realizando predicciones descubriendo patrones y usando algoritmos de Machine Learning.
                 Conocimientos en lenguajes de programación como Python y R con bases de datos
-                relacionales y no relacionales como SQL, MySql, CouchDB, etc.
-          - title: Webscraping
+                relacionales y no relacionales como SQL, MySql, CouchDB y Oracle. Además aplicando soluciones en la nuve con AWS.
+          - title: Business Intelligence Analyst
             content: >-
-                Obteniendo información de páginas web para Startups, micro empresas y proyectos personales,
-                respetando la ética de la trata de información.
-                Conocimientos en librerías como BeautifulSoup, Scrapy y Selenium.
+                Centrándome en la visualización de datos, el desarrollo de procesos ETL y el uso avanzado de herramientas como Power BI. Liderando proyectos de BI donde he diseñado y desarrollado paneles interactivos y reportes personalizados, lo que ha permitido a las partes interesadas obtener insights accionables de manera rápida y efectiva."
+          - title: Data Engineer
+            content: >-
+                He desarrollado proyectos en AWS, implementando pipelines de datos eficientes con tecnologías como Spark y PySpark. Mi enfoque se centra en el diseño de arquitecturas escalables y la automatización de flujos de trabajo para garantizar la fiabilidad y eficiencia en la ingestión, procesamiento y almacenamiento de datos en la nube. Mi experiencia contribuye a sistemas de datos robustos que permiten análisis avanzados y toma de decisiones ágiles.
           - title: Startups - Emprendimiento
             content: >-
                 Voluntario en SALTO PERÚ, además Coordinar del Programa de AtisunLab cuya misión es
                 crear las condiciones necesarias para que las ideas, el conocimiento, la tecnología y la educación
                 confluyan en la generación de emprendimientos con base tecnológica.
-          - title: Desarrollador Web
-            content: >-
-                Participando en distintos proyectos de desarrollo web como Frontend Developer utilizando
-                frameworks como Angular y React; realizando proyectos para Adinelsa, Ministerio de Energía y Minas,
-                Gobierno Regional del Cusco, etc.
     - section_id: latest-projects
       type: section_portfolio
       layout_style: mosaic
