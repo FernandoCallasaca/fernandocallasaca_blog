@@ -244,6 +244,36 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  portfolio:
+    type: page
+    urlPath: /portfolio
+    label: portfolio
+    layout: portfolio
+    file: portfolio/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title.
+      - type: enum
+        name: layout_style
+        label: Layout Style
+        description: The style of the portfolio layout.
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   page:
     type: page
     label: Page
@@ -251,6 +281,7 @@ models:
     exclude:
       - blog/**
       - articulo/**
+      - portfolio/**
     fields:
       - type: string
         name: title
